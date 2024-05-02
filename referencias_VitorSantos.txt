@@ -1,0 +1,128 @@
+Saber fazer as referências bibliográficas dentro de trabalhos acadêmicos é algo imprescindível, porque segundo a ABNT, é um item obrigatório. Seguir as regras estabelecidas pela ABNT traz credibilidade ao seu trabalho, mostrando a fonte de suas pesquisas e autoridade em dizer que você fez o trabalho.
+
+O primeiro passo é entender o porque de fazer as referências:
+
+O melhor jeito de garantir a defesa da própria ideia em um trabalho acadêmico é buscar referências de outras produções acadêmicas. É a partir das teorias utilizadas que você poderá provar que sua teoria tem embasamento e respaldo teórico de outros estudos. Então, para utilizar conceitos e teorias de outros autores, você precisará referenciá-los para dar os devidos créditos.
+Apesar de as regras da ABNT terem muitos detalhes e parecerem, num primeiro momento, desnecessárias, foram pensadas pelo órgão regulador, a ABNT, para que os textos acadêmicos tenham unidade. Por esse motivo, é preciso muito cuidado para não errar na formatação das referências bibliográficas e acabar incorrendo em plágio.
+
+Itens obrigatório a qualquer referência ABNT
+Autoria: Quem escreveu a ideia, é o fator mais importantes para determinar a origem da citação.
+Título da obra: Pode estar negritado e caso haja um subtítulo, deve-se separá-los por dois pontos. O subtítulo não é em negrito.
+Local: É importante deixar claro o local da publicação. E complementar a informação referente à editora.
+Data: É uma forma de determinar se o estudo citado está de acordo com as últimas descobertas. Mas também, é uma maneira de diferenciar artigos com títulos semelhantes ou iguais.
+
+Referências bibliográficas de livros:
+
+Livros com apenas um autor
+
+SOBRENOME, Nome. Título: subtítulo (se houver). Edição (se houver). Local de publicação: Editora, ano de publicação da obra.
+Exemplo:
+KRENAK, Ailton. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2019.
+
+Livro com até três autores
+
+SOBRENOME, Nome; SOBRENOME, Nome; SOBRENOME, Nome. Título: subtítulo (se houver). Edição (se houver). Local: Editora, ano de publicação.
+Exemplo:
+ARUZZA, Cinzia; BHATTACHARYA, Tithi; FRASER, Nancy. Feminismo para os 99%: um manifesto. São Paulo: Boitempo, 2019.
+
+Livro com mais de três autores
+
+SOBRENOME, Nome et al. Título: subtítulo (se houver). Edição (se houver). Local: Editora, ano de publicação.
+Exemplo:
+DILGER, Gerhard et al. Descolonizar o imaginário: debates sobre pós-extrativismo e alternativas ao desenvolvimento. São Paulo: Fundação Roxa Luxemburgo, 2016.
+
+Livro com autor desconhecido
+
+TÍTULO DO LIVRO, Local: Editora, ano.
+Exemplo:
+A MULA SEM CABEÇA. Florianópolis: Editora X, 2020.
+
+Referência da Constituição Federal ou Estadual
+
+LOCAL. Título (ano). Descrição. Local do órgão constituinte, ano de publicação.
+Exemplo:
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, DF: Centro Gráfico, 1988.
+
+Legislação comum
+
+BRASIL. Lei nº XX.XXX, de dia de mês de ANO. Função da lei. Diário Oficial da União, Brasília, DF, v. XX, n. XX, data de publicação do Diário.
+Exemplo:
+BRASIL, Lei nº 9.029, de 13 de abril de 1995. Proíbe a exigência de atestados de gravidez e esterilização e outras práticas discriminatórias, para efeitos admissionais ou de permanência da relação jurídica de trabalho e dá outras providências. Diário Oficial da União, Brasília, DF, v. 01, n. 55, 1995.
+
+Artigo de periódico ou revista
+SOBRENOME, Nome abreviado. Título do artigo. Título da Revista, Local de publicação, número do volume, páginas inicial-final, mês e ano.
+Exemplo:
+
+KILOMBA, Grada. A máscara, Revistas USP, n. 16, p. 23-40, 2016.
+
+Artigo em um evento
+
+SOBRENOME, Nome. Título do trabalho apresentado. In: TÍTULO DO EVENTO, nº do evento, ano de realização, local (cidade de realização). Título do documento (anais, resumos, etc). Local: Editora, ano de publicação. Páginas inicial-final.
+Exemplo:
+SILVA, João. A contribuição de Paulo Freire na Pedagogia. In: JORNADA DE PEDAGOGIA, nº 3, 2019, Florianópolis. Resumos. Florianópolis: Editora X, 2020, p. 20-50.
+
+Referência de monografia, dissertação ou tese
+
+SOBRENOME, Nome. Título: subtítulo (se houver). Ano de apresentação. Número de folhas ou volumes. Categoria (área de concentração) – Instituição, Local, ano da defesa.
+Exemplo:
+CARNEIRO, Aparecida Sueli. A construção do outro como não-ser como fundamento do ser. 2005. Tese (Doutorado em Educação) – Curso de Educação – Universidade de São Paulo, São Paulo, 2005.
+
+Obras coletivas ou de autoria de entidades
+
+AUTOR, Nome do. Entidade. Título. Local, ano.
+Exemplo:
+SÃO PAULO, Prefeitura Municipal de. Secretaria de Cultura. Dados sobre os aspectos culturais de São Paulo. São Paulo, 2017.
+
+____________________________________________________________________________________
+Referências de sites:
+
+Referência de sites de jornal
+
+Referência de site de jornal com autoria conhecida
+
+SOBRENOME, Nome. Título da matéria. Nome do jornal, cidade de publicação (se houver), dia, mês e ano. Seção (caso exista). Disponível em: URL. Acesso em: dia, mês e ano.
+Exemplo:
+LIMÓN, Raúl. Pfizer afirma que sua vacina contra o coronavírus tem eficácia de 90%. El país, 09 nov. 2020. Disponível em: https://brasil.elpais.com/brasil/2020-11-09/pfizer-afirma-que-sua-vacina-contra-o-coronavirus-tem-uma-eficacia-de-90.html. Acesso em: 18 nov. 2020.
+
+Referência de site de jornal sem autoria conhecida
+
+TÍTULO da matéria. Nome do jornal, cidade de publicação (se houver), dia, mês e ano. Seção (caso exista). Disponível em: URL. Acesso em: dia, mês e ano.
+Exemplo:
+CORONAVÍRUS: responsável por vacina da Pfizer, cientista diz que vida volta ao normal em 2021. Hypeness, 17 nov. 2020. Disponível em: https://brasil.elpais.com/brasil/2020-11-09/pfizer-afirma-que-sua-vacina-contra-o-coronavirus-tem-uma-eficacia-de-90.html. Acesso em 18 nov. 2020.
+    
+Referência de site de revistas eletrônicas
+
+SOBRENOME, Nome. Título do artigo. Título da Revista, local de publicação, volume do exemplar, número do exemplar, p. (página inicial e final do artigo), mês, ano de publicação. Disponível em: URL. Acesso em: dia, mês e ano.
+Exemplo:
+NARDES, Scarleth. Mulheres em situação de rua: memórias, cotidiano e acesso às políticas públicas. Revista de Estudos Feministas, Florianópolis, v. 29, n. 1, p. 1 – 18, julho, 2021. Disponível em: https://periodicos.ufsc.br/index.php/ref/article/view/66011/46755. Acesso em: 23 jul. 2021.
+
+Referência de site de publicação periódica com autor
+
+SOBRENOME, Nome. Título da matéria. Nome do site, ano. Disponível em: URL. Acesso em: dia, mês e ano.
+Exemplo:
+TUMELERO, Naína. Referências ABNT: aprenda como fazer. Mettzer, 2019. Disponível em: https://blog.mettzer.com/referencias-abnt. Acesso em: 18 nov. 2020.
+
+Referência de site de publicação periódica sem autor
+
+TÍTULO da matéria. Nome do site, ano. Disponível em: URL. Acesso em: dia, mês e ano.
+Exemplo:
+FEMINISMOS africanos. Instituto de Estudos de Gênero, 2020. Disponível em: http://www.ieg.ufsc.br/noticias/360. Acesso em 18 nov. 2020.
+
+Referências de página inicial ou homepage
+
+AUTOR OU ORGANIZAÇÃO. Nome do site, ano. Ementa (descrição). Disponível em: URL. Acesso em: dia, mês e ano.
+Exemplo:
+METTZER. Site do Mettzer, 2020. A plataforma para desenvolver seus trabalhos e pesquisas acadêmicas. Disponível em: https://www.mettzer.com/. Acesso em: 18 nov. 2020.
+
+Referência de endereços eletrônicos de documentos
+
+AUTOR OU ORGANIZAÇÃO. Título. Cidade: Responsável pela publicação, ano. Total de páginas. Disponível em: URL. Acesso em: dia, mês e ano.
+Exemplo:
+SILVA, Marluce Pereira. Sociedade de consumo: resenha. Porto Alegre: Horizontes Antropológicos, 2007. Disponível em: https://www.scielo.br/pdf/ha/v13n28/a21v1328.pdf. Acesso em: 18 nov. 2020.
+
+Referência de sites de enciclopédias e dicionários
+
+TÍTULO do verbete ou conceito. In: NOME da enciclopédia ou dicionário. Cidade: Responsável pela publicação/editora, ano. Disponível em: URL. Acesso em: dia, mês e ano.
+Exemplo:
+CIÊNCIA. In: SINÔNIMOS. 7Graus, c2020. Disponível em: https://www.sinonimos.com.br/ciencia/. Acesso em: 18 nov. 2020.
+
