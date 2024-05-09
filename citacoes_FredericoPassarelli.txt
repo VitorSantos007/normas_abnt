@@ -1,0 +1,114 @@
+O autor deve ser citado entre parênteses pelo sobrenome, separado por vírgula da data de publicação (BARBOSA, 1980). Se o nome do autor estiver citado no texto, indica-se apenas a data entre parênteses: Morais (1995) assinala... Quando se tratar de citação direta (transcrição literal do texto original) especificar página(s), essa(s) deverá(ão) seguir a data, separada(s) por vírgula e precedida(s) de p. (MUMFORD, 1949, p.513). As citações de diversas obras de um mesmo autor, publicadas no mesmo ano, devem ser discriminadas por letra minúscula após a data, sem espacejamento (PESIDE, 1927a) (PESIDE, 1927b). Quando a obra tiver dois ou três autores, separa-se por ponto e vírgula (OLIVEIRA; LEONARDO, 1943) e, quando tiver mais de três autores, indica-se o primeiro seguido da expressão et al. (GILLE et al., 1960). Citações até 3 linhas devem vir entre aspas, seguidas do nome do autor, data e página. Com mais de três linhas, devem vir com recuo de 4 cm na margem esquerda, corpo menor (fonte10), espaço simples e sem aspas, também seguidas do nome do autor, data e página. As citações em língua estrangeira devem ser apresentadas na mesma língua do texto e na chamada de citação apresentar a indicação tradução nossa. Em nota de rodapé apresentar a citação em sua língua original. As expressões latinas (idem, ibdem, passim, loco citato, e sequentia) assim como a expressão confira (Cf.) não podem ser utilizadas em chamadas de citação no corpo do texto. As expressões apud e et al. podem ser utilizadas no corpo do texto. Seguem abaixo alguns exemplos de citações:
+
+
+Citação direta, com mais de três linhas (recuo esquerdo de 4cm, espaçamento simples e tamanho 10):
+
+Harvey (1993, p. 112) acrescenta a tudo isso mais um fator,
+
+[...] enquanto abre uma perspectiva radical mediante o reconhecimento da autenticidade de outras vozes, o pensamento pós-moderno veda imediatamente essas outras vozes o acesso a fontes mais universais de poder, circunscrevendo-as num gueto de alteridade opaca, da especificidade de um ou outro jogo de linguagem.
+
+Citação direta, com menos de três linhas:
+
+O homem não pode viver fora da cultura, mas ela não pode ser seu destino, mas sim um meio para sua liberdade: "[...] não somos humanos fora da cultura, mas não seremos homens livres se não pudermos, sempre que necessário, assumir uma posição de exterioridade com relação ao mundo social." (ROUANET, 1993, p.276).
+
+
+Citação indireta:
+
+Tem-se na paródia, como o caracteriza Linda Hutcheon (1985), a manifestação textualizada da auto-referência, do nível metadiscursivo da criação literária.
+
+
+Citação de vários autores:
+
+Não me estenderei sobre esse assunto, por considerá-lo devidamente discutido pelos marxistas clássicos (MARX, 1983, 1969; LENIN, 1977a; LUXEMBURG, 1978).
+
+
+Citação de várias obras do mesmo autor:
+
+Há nele uma diversidade de formas de trabalho; mas em geral subsumidas no capital, e não externas a ele e que resistem à sua expansão, consoante desejam certos partidários do campesinato, cujo exemplo maior é Martins (1979, 1980, 1984, 1986).
+
+
+Citação de citação:
+
+Autonomia significa a capacidade de auto-reflexão e autodeterminação dos indivíduos: "[...] deliberar, julgar, escolher e agir diante de diferentes cursos de ação possível." (HELD apud GIDDENS, 1993, p.202).
+
+
+Referências
+
+Na lista devem constar apenas as publicações citadas no próprio texto, dispostas em ordem alfabética pelo sobrenome do primeiro autor e ordem cronológica decrescente para obras de mesmo autor. Obedecer às normas estabelecidas pela ABNT (NBR 6023:2002), alinhadas à margem esquerda, com recurso tipográfico para destaque unificado (negrito ou itálico ou sublinhado), em espaço simples no corpo da referência e separadas entre si por espaço 1,5 entrelinhas. Logo abaixo estão disponíveis alguns exemplos de referências:
+
+
+EXEMPLOS
+
+Livros:
+FERNANDES, F. A revolução burguesa no Brasil. Rio de Janeiro: Zahar, 1975. 
+
+Capítulos de livros:
+SINGER, P. A política das classes dominantes. In: IANNI, O. (Org.). Política e revolução social no Brasil. Rio de Janeiro: Civilização Brasileira, 1965. p.65-125.
+
+Dissertações e teses:
+SOUZA, M. T. de. Instituições e política congressual: a experiência congressual recente. 1998. 197f. Tese (Doutorado em Sociologia) - Faculdade de Ciências e Letras, Universidade Estadual Paulista, Araraquara, 1998.
+
+Artigos de periódicos:
+SAES, D. Uma contribuição à crítica da teoria das elites. Sociologia e Política, Curitiba, v.1, n.3, p.7-20, 1994.
+
+Artigos de jornais: 
+DRUMMOND, R. A hora de matar os demônios. Jornal do Brasil, Rio de Janeiro, 6 fev. 1988. Idéias, p.8-9.
+
+Entrevistas: 
+DRUMMOND, R. A pior censura é a dos próprios intelectuais. [nov. 1978]. Entrevistador: Charles Magno Medeiros. Jornal do Brasil, Rio de Janeiro, p. 4, 11 nov. 1978a.
+
+Eventos (Congressos, Conferências, Simpósios, Workshops, Jornadas e outros):
+BRUSCHINI, C.; RIDENTI, S. Trabalho domiciliar: uma tarefa para toda a família. In: SIMPÓSIO DE ECONOMIA FAMILIAR, 1., 1996, Viçosa. Anais... Viçosa: Ed. UFV, 1996.
+
+Publicação on-line:
+TAVES, R. F. Ministério cota pagamento de 46,5 mil professores. O Globo. Rio de Janeiro, 19 abr. 1998. Disponível em:. Acesso em: 19 abr. 1998.
+
+Dicionários:
+
+ AULETE, Caldas. Dicionário contemporâneo da Língua Portuguesa. 3. ed. Rio de Janeiro: Delta, 1980. 5 v.
+
+Atlas:
+
+ MOURÃO, Ronaldo Rogério de Freitas. Atlas celeste. 5. ed. Petrópolis: Vozes, 1984. 175 p.
+
+Enciclopédias:
+
+ THE NEW Encyclopaedia Britannica: micropaedia. Chicago: Encyclopaedia Britannica, 1986. 30 v.
+
+Normas Técnicas:
+
+ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Resumos: NB-88. Rio de Janeiro, 1987. 3 p.
+
+Relatórios técnico-científicos:
+
+SOUZA, Ubiraci Espinelli Lemes de; MELHADO, Silvio Burratino. Subsídios para a avaliação do custo de mão-de-obra na construção civil. São Paulo: EPUSP, 1991. 38 p. (Série Texto Técnico, TT/PCC/01).
+
+Associações, Empresas e Instituições:
+
+ASSOCIAÇÃO BRASILEIRA DE ENFERMAGEM. Centro de Estudos em Enfermagem. Informações pesquisas e pesquisadores em Enfermagem. São Paulo, 1916. 124 p.
+
+Biografias:
+
+ SZPERKOWICZ, Jerzy. Nicolás Copérnico: 1473-1973. Tradução de Victor M. Ferreras Tascón, Carlos H. de León Aragón. Varsóvia: Editorial Científica Polaca, 1972. 82 p.
+
+Dois autores:
+
+SÓDERSTEN, Bo; GEOFREY, Reed. International economics. 3. ed. London: MacMillan, 1994. 714 p. 
+
+Três autores:
+
+NORTON, Peter; AITKEN, Peter; WILTON, Richard. Peter Norton: a bíblia do programador. Tradução: Geraldo Costa Filho. Rio de Janeiro: Campos, 1994. 640 p.
+
+Mais de três autores (em casos específicos, dada à importância, é facultativo indicar todos os nomes):
+
+BRITO, Edson Vianna. et al. Imposto de renda das pessoas físicas: livro prático de consulta diária. 6. ed. atual. São Paulo: Frase Editora, 1996. 288 p.
+
+Autor desconhecido (a entrada é feita pelo título e o termo anônimo não deve ser usado em substituição ao nome do autor desconhecido):
+
+ 
+
+PROCURA-SE um amigo. In: SILVA, Lenilson Naveira e. Gerência da vida: reflexões filosóficas. 3. ed. Rio de Janeiro: Record, 1990. 247. p. 212-213. 
+
+Pseudônimo (considerado o pseudônimo adotado referenciado na obra. Se o verdadeiro nome for conhecido, pode-se indicá-lo entre colchetes na sequência):
+
+ATHAYDE, Tristão de [Alceu Amoroso Lima]. Debates pedagógicos. Rio de Janeiro: Schmidt, 1931.
